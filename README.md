@@ -1,5 +1,7 @@
 # Automobile Multi-Class Classification Project 🚗
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Chen-ipynb/Automobile-ML-Classification/blob/main/notebook/Automobile-ML-Classification.ipynb)
+
 This project is a machine learning solution to a semi-supervised multi-class classification problem based on an automobile dataset. It was developed as the final project of a machine learning course.
 
 The goal is to predict the `symboling` (risk rating) of a vehicle based on multiple features through data preprocessing, model training, performance evaluation, and result interpretation.
